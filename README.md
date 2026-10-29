@@ -9,9 +9,10 @@
 
 Карточки находятся в скрытом состоянии от пользователя, т.е. игрок не видит изображения на них, они все голубого цвета. <img width="520" height="548" alt="image" src="https://github.com/user-attachments/assets/1b7b569c-b5db-4b21-bb0d-d960edb1b227" />
 
-При открывании карточки появляется изображение.
-Если изображение на карточках не совпало, то они закрываются. 
-Пользователь опять их не видит. 
+При открывании карточки появляется изображение. <img width="536" height="537" alt="image 4" src="https://github.com/user-attachments/assets/ff4b8b70-2eab-4532-9ccf-11ff0e937f42" />
+
+Если изображение на карточках не совпало, то они закрываются. <img width="523" height="537" alt="im 5" src="https://github.com/user-attachments/assets/9d575900-6504-448f-9f15-33164f5e1926" /> 
+<img width="532" height="533" alt="im 6" src="https://github.com/user-attachments/assets/b3cd1d9c-e0b0-4622-8210-8dce933e6841" />
 
 Если изображение на карточках совпало, тогда они остаются видимыми. <img width="531" height="532" alt="im 7" src="https://github.com/user-attachments/assets/c84c2406-991c-4f08-a959-7142c691874e" />
 
